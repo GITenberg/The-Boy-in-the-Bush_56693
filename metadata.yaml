@@ -1,17 +1,22 @@
 _repo: The-Boy-in-the-Bush_56693
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Various
     alias: Verschillende
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 56693-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowe, Richard
     gutenberg_agent_id: '48983'
     url: http://www.gutenberg.org/2009/agents/48983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56693#The-Boy-in-the-Bush
 gutenberg_issued: '2018-03-07'
 gutenberg_type: Text
 identifiers:
